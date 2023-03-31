@@ -3,7 +3,7 @@
   width: 100%;
   scroll-snap-align: start;
   position: relative;
-  color: #fff;
+  /* color: #fff; */
 }
 
 .video__player {
